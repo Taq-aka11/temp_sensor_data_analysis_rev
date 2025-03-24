@@ -21,4 +21,6 @@ sorted_csv_gen.pyを実行→temp_error_non_cali_average.pyを実行
 
 ----
 
-主に使うのは以上の関数。他にも出力の曲率を求める関数などもある。
+主に使うのは以上の関数。他にも出力の曲率を求める関数なども入ってます。
+
+Temp_Core_linearity_test, Temp_Sensor_Core_PMOS_ADCのフォルダにはcadenceから保存したcsvのデータがあるので実際にファイルを実行して出力結果を確かめてみてください。
